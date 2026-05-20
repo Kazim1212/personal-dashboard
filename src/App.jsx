@@ -10,19 +10,13 @@ import styles from './App.module.css'
 // Edit these to personalise your dashboard
 export const CONFIG = {
   github: {
-    username: 'Kazim1212',   // ← replace
-  },
-  weather: {
-    // Open-Meteo is free and needs no API key. Just update lat/lon for your city.
-    latitude:  49.1657,
-    longitude: 6.1688,
-    city: 'Amnéville',
-  },
-  profile: {
-    name: 'Kazim',
-    role: 'IT Consultant,Product Owner/ Developer',
-    initials: 'SKB',
-  },
+  username: 'Kazim1212',   // ← update this
+},
+profile: {
+  name: 'Syed Kazim',       // ← your real name
+  initials: 'SKB',          // ← your initials
+  role: 'IT Consultant/Product Owner/Developer',
+},
 }
 // ───────────────────────────────────────────────────────────────────────────
 
